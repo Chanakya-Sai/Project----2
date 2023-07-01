@@ -13,11 +13,6 @@ pip install opencv-python
 pip install numpy
 ```
 
-### Downloading
-Use the command below in your favorite shell in order to download and test Simple along with the demo video.
-```
-git clone "https://github.com/rpathak38/Simple_Lane_Detection.git"
-```
 
 ### Running
 Test Simple by running the ```main.py``` file like below. This will load up a demo video and will display a suggested path.
@@ -30,8 +25,6 @@ python3 main.py
 
 [Numpy](https://github.com/numpy/numpy) -- A fundamental package needed for scientific computing with Python.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rpathak38/Simple_Lane_Detection/blob/master/LICENSE) file for details.
 
 ## Acknowledgements
 [Programming Knowledge Team](https://www.youtube.com/user/ProgrammingKnowledge) -- I learned about Python and OpenCV through the tutorials provided in this youtube channel.
